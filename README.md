@@ -6,7 +6,7 @@ Hello, I'm a **data analyst** with a passion for **machine learning**, building 
 
 In addition to my technical skills, I bring a unique perspective to my work, drawing on my diverse interests and experiences. Whether I'm exploring a new city, trying out a new recipe, or diving into a good book, I'm always looking for ways to feed my curiosity and bring fresh insights into my work.
 
-I share my knowledge and experiences on my blog "**Digital Elxir**", reaching out to a wide audience of data enthusiasts.
+I share my knowledge and experiences on my blog, reaching out to a wide audience of data enthusiasts.
 
 ### 🧰 Languages and Tools
 
