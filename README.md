@@ -11,7 +11,7 @@ I share my knowledge and experiences on my blog, reaching out to a wide audience
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="100px" height="30px" style="padding-right:10px;" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img align="left" alt="C++" width="80px" height="30px" style="padding-right:10px;" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/62756402/219742406-3705ec7a-8fb5-43cf-906e-1d59f5db93c6.png" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
