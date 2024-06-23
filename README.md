@@ -25,8 +25,11 @@ I share my knowledge and experiences on my blog, reaching out to a wide audience
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" />
 
-### 🧰 Databases
 
+### 🧰 Databases
+<img align="left" alt="C++" width="100px" height="30px" style="padding-right:10px;" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img align="left" alt="C++" width="100px" height="30px" style="padding-right:10px;" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ### 🧰 Libraries
 
