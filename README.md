@@ -1,40 +1,45 @@
-# 🏄‍♂️ Sherwin Varghese
+<h1 align="center">🏄‍♂️ Sherwin Varghese</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=The+Data+Guy..&hearts;++;Machine+Learning+Enthusiast..🚀;Data+Analytics..🔍;Business+Analytics..📊;Business+Intelligence..📈;Love+to+learn+new+stuffs..<3"></a>
+ 
+I’m a data analyst skilled in data analytics, machine learning, deep learning, and business intelligence. I transform raw data into actionable insights and build robust solutions. Passionate about sharing knowledge, I connect with data enthusiasts through my blog, bringing fresh insights from my diverse interests and experiences.
 
-**`Digital Alchemist (Developer/Data Analyst/Machine Learning Enthusiast)`**
+## 🔧 Tech stack
 
-Hello, I'm a **data analyst** with a passion for **machine learning**, building my version of the data-driven world one step at a time. All my projects are built from the ground up, from ideation and designing all the way to solving real-life problems with data and code. I am experienced in technologies like **Flask**, which I use to bring my data solutions to life.
+[<img height="40" width="40" src="https://cdn.simpleicons.org/python">](https://www.python.org/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/cplusplus">](https://www.python.org/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/c">](https://www.python.org/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/html5">](https://www.linux.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/javascript">](https://www.linux.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/pandas">](https://pandas.pydata.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/polars">](https://www.pola.rs/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/numpy">](https://numpy.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/scikitlearn">](https://scikit-learn.org/stable/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/openstreetmap">](https://docs.pydantic.dev/latest/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/flask">](https://fastapi.tiangolo.com/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/streamlit">](https://fastapi.tiangolo.com/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/plotly">](https://plotly.com/python/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/pytest">](https://docs.pytest.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/materialformkdocs">](https://pytorch.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/tensorflow">](https://www.rust-lang.org/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/keras">](https://beta.ruff.rs/docs/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/opencv">](https://fastapi.tiangolo.com/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/postgresql">](https://www.postgresql.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/sqlite">](https://www.sqlite.org/index.html)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/mysql">](https://prestodb.io/) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/googlebigquery">](https://scipy.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/snowflake">](https://code.visualstudio.com/docs) 
+[<img height="40" width="40" src="https://cdn.simpleicons.org/mongodb">](https://kubernetes.io/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/docker">](https://docs.docker.com/) 
+[<img height="40" width="40" src="https://cdn.simpleicons.org/ruff">](https://beta.ruff.rs/docs/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/yaml">](https://pypi.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/googlesheets">](https://scipy.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/linux">](https://www.linux.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/git">](https://pypi.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/readthedocs">](https://pypi.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/jupyter">](https://pypi.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/looker">](https://pypi.org/)
 
-In addition to my technical skills, I bring a unique perspective to my work, drawing on my diverse interests and experiences. Whether I'm exploring a new city, trying out a new recipe, or diving into a good book, I'm always looking for ways to feed my curiosity and bring fresh insights into my work.
-
-I share my knowledge and experiences on my blog, reaching out to a wide audience of data enthusiasts.
-
-### 🧰 Languages 
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="80px" height="30px" style="padding-right:10px;" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/62756402/219742406-3705ec7a-8fb5-43cf-906e-1d59f5db93c6.png" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" />
-<img align="left" alt="C++" width="100px" height="30px" style="padding-right:10px;" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" />
-
-
-### 🧰 Databases
-<img align="left" alt="C++" width="100px" height="30px" style="padding-right:10px;" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<img align="left" alt="C++" width="100px" height="30px" style="padding-right:10px;" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-### 🧰 Libraries
-
-
-### 🧰 Analytics
 
 
 
