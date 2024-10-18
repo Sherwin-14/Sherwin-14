@@ -13,6 +13,7 @@ I’m a data analyst skilled in data analytics, machine learning, deep learning,
 [<img height="40" width="40" src="https://cdn.simpleicons.org/javascript">](https://www.linux.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/pandas">](https://pandas.pydata.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/polars">](https://www.pola.rs/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/duckdb">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/numpy">](https://numpy.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/scikitlearn">](https://scikit-learn.org/stable/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/openstreetmap">](https://docs.pydantic.dev/latest/)
@@ -21,6 +22,7 @@ I’m a data analyst skilled in data analytics, machine learning, deep learning,
 [<img height="40" width="40" src="https://cdn.simpleicons.org/plotly">](https://plotly.com/python/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/pytest">](https://docs.pytest.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/materialformkdocs">](https://pytorch.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/quarto">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/tensorflow">](https://www.rust-lang.org/) &nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/keras">](https://beta.ruff.rs/docs/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/opencv">](https://fastapi.tiangolo.com/)
@@ -39,6 +41,7 @@ I’m a data analyst skilled in data analytics, machine learning, deep learning,
 [<img height="40" width="40" src="https://cdn.simpleicons.org/readthedocs">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/jupyter">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/looker">](https://pypi.org/)
+
 
 
 
