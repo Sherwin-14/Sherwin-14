@@ -11,6 +11,7 @@ I’m a data analyst skilled in data analytics, machine learning, deep learning,
 [<img height="40" width="40" src="https://cdn.simpleicons.org/c">](https://www.python.org/) &nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/html5">](https://www.linux.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/javascript">](https://www.linux.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/r">](https://www.python.org/) &nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/pandas">](https://pandas.pydata.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/polars">](https://www.pola.rs/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/duckdb">](https://pypi.org/)
@@ -23,6 +24,7 @@ I’m a data analyst skilled in data analytics, machine learning, deep learning,
 [<img height="40" width="40" src="https://cdn.simpleicons.org/pytest">](https://docs.pytest.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/materialformkdocs">](https://pytorch.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/quarto">](https://pypi.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/pytorch">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/tensorflow">](https://www.rust-lang.org/) &nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/keras">](https://beta.ruff.rs/docs/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/opencv">](https://fastapi.tiangolo.com/)
@@ -38,9 +40,13 @@ I’m a data analyst skilled in data analytics, machine learning, deep learning,
 [<img height="40" width="40" src="https://cdn.simpleicons.org/googlesheets">](https://scipy.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/linux">](https://www.linux.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/git">](https://pypi.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/githubactions">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/readthedocs">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/jupyter">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/looker">](https://pypi.org/)
+
+
+
 
 
 
