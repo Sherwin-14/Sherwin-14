@@ -8,7 +8,6 @@ I’m a data analyst skilled in data analytics, machine learning, deep learning,
 
 [<img height="40" width="40" src="https://cdn.simpleicons.org/python">](https://www.python.org/) &nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/cplusplus">](https://www.python.org/) &nbsp;&nbsp;
-[<img height="40" width="40" src="https://cdn.simpleicons.org/c">](https://www.python.org/) &nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/html5">](https://www.linux.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/javascript">](https://www.linux.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/r">](https://www.python.org/) &nbsp;&nbsp;
