@@ -28,6 +28,7 @@ I’m a data analyst skilled in data analytics, machine learning, deep learning,
 [<img height="40" width="40" src="https://cdn.simpleicons.org/pytest">](https://docs.pytest.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/materialformkdocs">](https://pytorch.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/quarto">](https://pypi.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/poetry">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/pytorch">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/tensorflow">](https://www.rust-lang.org/) &nbsp;&nbsp;
 [<img height="40" width="40" src="https://cdn.simpleicons.org/keras">](https://beta.ruff.rs/docs/)
@@ -48,9 +49,6 @@ I’m a data analyst skilled in data analytics, machine learning, deep learning,
 [<img height="40" width="40" src="https://cdn.simpleicons.org/readthedocs">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/jupyter">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/looker">](https://pypi.org/)
-
-
-
 
 
 
