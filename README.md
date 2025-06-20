@@ -26,6 +26,7 @@ I’m a data analyst skilled in data analytics, machine learning, deep learning,
 <img height="40" width="40" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/ggplot2.svg">
 <img height="40" width="40" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/shiny.svg">
 [<img height="40" width="40" src="https://cdn.simpleicons.org/pytest">](https://docs.pytest.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/pydantic">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/materialformkdocs">](https://pytorch.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/quarto">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/poetry">](https://pypi.org/)
