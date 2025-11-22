@@ -6,11 +6,11 @@ I’m a data analyst skilled in data analytics, machine learning, deep learning,
 
 ## 🔧 Tech stack
 
-[<img height="40" width="40" src="https://cdn.simpleicons.org/python">](https://www.python.org/) &nbsp;&nbsp;
-[<img height="40" width="40" src="https://cdn.simpleicons.org/cplusplus">](https://www.python.org/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/python">](https://www.python.org/) 
+[<img height="40" width="40" src="https://cdn.simpleicons.org/cplusplus">](https://www.python.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/html5">](https://www.linux.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/javascript">](https://www.linux.org/)
-[<img height="40" width="40" src="https://cdn.simpleicons.org/r">](https://www.python.org/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/r">](https://www.python.org/)
 <img height="40" width="40" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg">
 [<img height="40" width="40" src="https://cdn.simpleicons.org/pandas">](https://pandas.pydata.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/dask">](https://scipy.org/)
@@ -29,14 +29,14 @@ I’m a data analyst skilled in data analytics, machine learning, deep learning,
 [<img height="40" width="40" src="https://cdn.simpleicons.org/uv">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/scikitlearn">](https://scikit-learn.org/stable/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/pytorch">](https://pypi.org/)
-[<img height="40" width="40" src="https://cdn.simpleicons.org/tensorflow">](https://www.rust-lang.org/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/tensorflow">](https://www.rust-lang.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/keras">](https://beta.ruff.rs/docs/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/opencv">](https://fastapi.tiangolo.com/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/postgresql">](https://www.postgresql.org/)
-[<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg">](https://prestodb.io/) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg">](https://prestodb.io/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/googlebigquery">](https://scipy.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/snowflake">](https://code.visualstudio.com/docs) 
-[<img height="40" width="40" src="https://cdn.simpleicons.org/mongodb">](https://kubernetes.io/) &nbsp;&nbsp;
+[<img height="40" width="40" src="https://cdn.simpleicons.org/mongodb">](https://kubernetes.io/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/docker">](https://docs.docker.com/) 
 [<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Microsoft_Power_Platform_logo.svg">](https://beta.ruff.rs/docs/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/linux">](https://www.linux.org/)
