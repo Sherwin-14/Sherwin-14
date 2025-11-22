@@ -33,7 +33,7 @@ I’m a data analyst skilled in data analytics, machine learning, deep learning,
 [<img height="40" width="40" src="https://cdn.simpleicons.org/keras">](https://beta.ruff.rs/docs/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/opencv">](https://fastapi.tiangolo.com/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/postgresql">](https://www.postgresql.org/)
-[<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg">](https://prestodb.io/)
+[<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg">]()
 [<img height="40" width="40" src="https://cdn.simpleicons.org/googlebigquery">](https://scipy.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/snowflake">](https://code.visualstudio.com/docs) 
 [<img height="40" width="40" src="https://cdn.simpleicons.org/mongodb">](https://kubernetes.io/)
