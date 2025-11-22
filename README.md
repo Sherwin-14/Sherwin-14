@@ -13,7 +13,7 @@ I’m a data analyst skilled in data analytics, machine learning, deep learning,
 [<img height="40" width="40" src="https://cdn.simpleicons.org/r">](https://www.python.org/)
 <img height="40" width="40" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg">
 [<img height="40" width="40" src="https://cdn.simpleicons.org/pandas">](https://pandas.pydata.org/)
-[<img height="40" width="40" src="https://cdn.simpleicons.org/dask">](https://scipy.org/)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/dask">]
 [<img height="40" width="40" src="https://cdn.simpleicons.org/polars">](https://www.pola.rs/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/duckdb">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/numpy">](https://numpy.org/)
