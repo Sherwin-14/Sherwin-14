@@ -45,7 +45,6 @@ I’m a data analyst skilled in data analytics, machine learning, deep learning,
 [<img height="40" width="40" src="https://cdn.simpleicons.org/githubactions">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/googleanalytics">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.brandfetch.io/id9sYMA_Im/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668082242510">](https://pypi.org/)
-[<img height="40" width="40" src="https://cdn.brandfetch.io/idVCtIagXj/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1757048995996">](https://pypi.org/)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/looker">](https://pypi.org/)
 
 
