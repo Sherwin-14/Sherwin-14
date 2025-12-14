@@ -1,6 +1,9 @@
 <h1 align="center">🏄‍♂️ Sherwin Varghese</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=The+Data+Guy..&hearts;++;Machine+Learning+Enthusiast..🚀;Data+Analytics..🔍;Business+Analytics..📊;Business+Intelligence..📈;Love+to+learn+new+stuffs..<3"></a>
+
+<img width="1438" height="462" alt="Sherwin(1)" src="https://github.com/user-attachments/assets/5f3e967c-dd7e-41f3-a15d-f08f3bbe3789" />
+
  
 I’m a data analyst skilled in data analytics, machine learning, deep learning, and business intelligence. I transform raw data into actionable insights and build robust solutions. Passionate about sharing knowledge, I connect with data enthusiasts through my blog, bringing fresh insights from my diverse interests and experiences.
 
